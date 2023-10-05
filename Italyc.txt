@@ -1,0 +1,566 @@
+#EXTM3U
+#EXTINF:-1,IT: 7 Gold
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299334
+#EXTINF:-1,IT: 111 TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265364
+#EXTINF:-1,IT: 12 TV Parma
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279918
+#EXTINF:-1,IT: 20 Mediaset
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/961
+#EXTINF:-1,IT: 51 Radio TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/16018
+#EXTINF:-1,IT: 70 80 Hits
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299461
+#EXTINF:-1,IT: A3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/16016
+#EXTINF:-1,IT: ACI Sport TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/298813
+#EXTINF:-1,IT: Alma TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/41223
+#EXTINF:-1,IT: Alto Adige TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18673
+#EXTINF:-1,IT: Antenna 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279913
+#EXTINF:-1,IT: Antenna Sud
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/84736
+#EXTINF:-1,IT: Arte Network
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74314
+#EXTINF:-1,IT: Aurora Arte
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/8160
+#EXTINF:-1,IT: Baby TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/31824
+#EXTINF:-1,IT: Bella Radio TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299459
+#EXTINF:-1,IT: Bellla & Monella TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279919
+#EXTINF:-1,IT: bianconeranews
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/12328
+#EXTINF:-1,IT: Bike
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/22709
+#EXTINF:-1,IT: Bloomberg TV 4K
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279908
+#EXTINF:-1,IT: Boing
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/966
+#EXTINF:-1,IT: Boomerang
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9565
+#EXTINF:-1,IT: Byoblu
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296110
+#EXTINF:-1,IT: Caccia e Pesca
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299515
+#EXTINF:-1,IT: Cafe 24
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18678
+#EXTINF:-1,IT: Camera dei Deputati
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279906
+#EXTINF:-1,IT: Canale 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18773
+#EXTINF:-1,IT: Canale 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/902
+#EXTINF:-1,IT: Canale 7
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/3534
+#EXTINF:-1,IT: Canale 8
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/49029
+#EXTINF:-1,IT: Canale Dieci
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/3536
+#EXTINF:-1,IT: Canale Europa
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279907
+#EXTINF:-1,IT: Carina TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74331
+#EXTINF:-1,IT: Cartoon Network
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9567
+#EXTINF:-1,IT: Cartoonito
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/975
+#EXTINF:-1,IT: Cielo
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/976
+#EXTINF:-1,IT: Cine 34
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/75589
+#EXTINF:-1,IT: Comedy Central
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279262
+#EXTINF:-1,IT: Company TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/981
+#EXTINF:-1,IT: Cremona 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279945
+#EXTINF:-1,IT: Crime+ Investigation
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287401
+#EXTINF:-1,IT: Cusano Italia TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279922
+#EXTINF:-1,IT: DAZN 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/79220
+#EXTINF:-1,IT: DAZN 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/39497
+#EXTINF:-1,IT: Discovery Channel
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/7868
+#EXTINF:-1,IT: Discovery HGTV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/173565
+#EXTINF:-1,IT: Discovery Nove
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1991
+#EXTINF:-1,IT: Discovery Science
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287758
+#EXTINF:-1,IT: Disney junior
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1988
+#EXTINF:-1,IT: Disney+
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/50687
+#EXTINF:-1,IT: Disney+ Film
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279927
+#EXTINF:-1,IT: Disney+ Nature
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/169950
+#EXTINF:-1,IT: DMAX
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2006
+#EXTINF:-1,IT: Elive TV Brescia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/145884
+#EXTINF:-1,IT: Entella TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279942
+#EXTINF:-1,IT: Espansione TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/165397
+#EXTINF:-1,IT: Esperia TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9581
+#EXTINF:-1,IT: Euro Indie Music Chart TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/201810
+#EXTINF:-1,IT: Euro TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287513
+#EXTINF:-1,IT: euronews
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/77567
+#EXTINF:-1,IT: EUROSPORT 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/995
+#EXTINF:-1,IT: EUROSPORT 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1040
+#EXTINF:-1,IT: FashionTV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/85120
+#EXTINF:-1,IT: FM Italia TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18685
+#EXTINF:-1,IT: Focus
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/8163
+#EXTINF:-1,IT: Food Network
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/173564
+#EXTINF:-1,IT: Fox
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/282054
+#EXTINF:-1,IT: FOX Comedy
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/266635
+#EXTINF:-1,IT: Fox Crime
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1002
+#EXTINF:-1,IT: Fox Life
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/3565
+#EXTINF:-1,IT: Frisbee
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2003
+#EXTINF:-1,IT: Gambero Rosso
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/264572
+#EXTINF:-1,IT: Giallo
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2004
+#EXTINF:-1,IT: Globus Television
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74312
+#EXTINF:-1,IT: Gold TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/151660
+#EXTINF:-1,IT: Grande Fratello
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299837
+#EXTINF:-1,IT: Granducato
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/151651
+#EXTINF:-1,IT: History
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/264522
+#EXTINF:-1,IT: icaro TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/993
+#EXTINF:-1,IT: Iris
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2002
+#EXTINF:-1,IT: Italia 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/986
+#EXTINF:-1,IT: Italia 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/987
+#EXTINF:-1,IT: Italia 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/169480
+#EXTINF:-1,IT: Italian Fishing TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/63265
+#EXTINF:-1,IT: Iunior TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287518
+#EXTINF:-1,IT: Juwelo Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/285549
+#EXTINF:-1,IT: K2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/8158
+#EXTINF:-1,IT: Kiss Kiss
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296595
+#EXTINF:-1,IT: Kiss Kiss Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279937
+#EXTINF:-1,IT: Kiss Kiss Napoli
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/294964
+#EXTINF:-1,IT: La 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/3541
+#EXTINF:-1,IT: La 7
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1996
+#EXTINF:-1,IT: La 7 d
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/988
+#EXTINF:-1,IT: La C TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265373
+#EXTINF:-1,IT: La Nuova TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/173590
+#EXTINF:-1,IT: La Tr3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1006
+#EXTINF:-1,IT: LaGrande Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299525
+#EXTINF:-1,IT: Lazio TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2001
+#EXTINF:-1,IT: Lira TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279938
+#EXTINF:-1,IT: Lombardia TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279943
+#EXTINF:-1,IT: Love FM TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/75579
+#EXTINF:-1,IT: M2o
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2511
+#EXTINF:-1,IT: Maria+Vision Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158695
+#EXTINF:-1,IT: Mediaset Extra
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/992
+#EXTINF:-1,IT: Mediaset Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/298598
+#EXTINF:-1,IT: Motortrend
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/75151
+#EXTINF:-1,IT: MS Motor TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158715
+#EXTINF:-1,IT: MTV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/63276
+#EXTINF:-1,IT: NAT GEO
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2512
+#EXTINF:-1,IT: NAT GEO Wild
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279657
+#EXTINF:-1,IT: Nick Jr
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/3594
+#EXTINF:-1,IT: OL3 Radio
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296582
+#EXTINF:-1,IT: Onda Novara TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287523
+#EXTINF:-1,IT: Onda TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/59560
+#EXTINF:-1,IT: Orler TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/994
+#EXTINF:-1,IT: Padre Pio TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/8159
+#EXTINF:-1,IT: Parole di Vita
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/195033
+#EXTINF:-1,IT: Prima TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265376
+#EXTINF:-1,IT: Primocanale
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18701
+#EXTINF:-1,IT: QVC Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/169922
+#EXTINF:-1,IT: Radio 4 You
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296585
+#EXTINF:-1,IT: Radio 51 TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287429
+#EXTINF:-1,IT: Radio Birikina TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280024
+#EXTINF:-1,IT: Radio Bruno TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/80066
+#EXTINF:-1,IT: Radio Capital
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2517
+#EXTINF:-1,IT: Radio Delta International
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296102
+#EXTINF:-1,IT: Radio Freccia TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158682
+#EXTINF:-1,IT: Radio Iglesias
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280010
+#EXTINF:-1,IT: Radio Italia Trend TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2518
+#EXTINF:-1,IT: Radio JukeBox TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280026
+#EXTINF:-1,IT: Radio Lombardia TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280027
+#EXTINF:-1,IT: Radio Millennium TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158700
+#EXTINF:-1,IT: Radio Number One
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/80067
+#EXTINF:-1,IT: Radio Pescara
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/169915
+#EXTINF:-1,IT: Radio PiterPan TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287533
+#EXTINF:-1,IT: Radio Radicale
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/151645
+#EXTINF:-1,IT: Radio Roma
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299460
+#EXTINF:-1,IT: Radio Studio Delta
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280023
+#EXTINF:-1,IT: Radio Taormina TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/151640
+#EXTINF:-1,IT: Radio Tivu Azzurra
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280011
+#EXTINF:-1,IT: Radiolina
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280009
+#EXTINF:-1,IT: Radionorba TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/8155
+#EXTINF:-1,IT: Rai 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/898
+#EXTINF:-1,IT: Rai 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/899
+#EXTINF:-1,IT: Rai 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1979
+#EXTINF:-1,IT: Rai 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/900
+#EXTINF:-1,IT: Rai 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/901
+#EXTINF:-1,IT: Rai 4K
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/290520
+#EXTINF:-1,IT: Rai Gulp
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/903
+#EXTINF:-1,IT: Rai Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/38715
+#EXTINF:-1,IT: Rai Movie
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1980
+#EXTINF:-1,IT: Rai News 24
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/905
+#EXTINF:-1,IT: Rai Premium
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/906
+#EXTINF:-1,IT: Rai Scuola
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1985
+#EXTINF:-1,IT: Rai Sport
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1042
+#EXTINF:-1,IT: Rai Storia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1983
+#EXTINF:-1,IT: Rai Yoyo
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/907
+#EXTINF:-1,IT: RDS Social TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/8172
+#EXTINF:-1,IT: Real Time
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/977
+#EXTINF:-1,IT: Reggio TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74339
+#EXTINF:-1,IT: Rei TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299514
+#EXTINF:-1,IT: Rete 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1989
+#EXTINF:-1,IT: Rete 55
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287549
+#EXTINF:-1,IT: Rete Oro
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/174217
+#EXTINF:-1,IT: Rete Sole
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/151632
+#EXTINF:-1,IT: Rete TV Italia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280014
+#EXTINF:-1,IT: Rete Veneta
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158721
+#EXTINF:-1,IT: ReteBiella TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/908
+#EXTINF:-1,IT: Retemia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287551
+#EXTINF:-1,IT: RMC 101
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/280005
+#EXTINF:-1,IT: RSI La 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/298482
+#EXTINF:-1,IT: RSI LA 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1992
+#EXTINF:-1,IT: RTC Telecalabria
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74335
+#EXTINF:-1,IT: RTL 102.5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/42795
+#EXTINF:-1,IT: RTP (rete televisiva)
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/169908
+#EXTINF:-1,IT: RTR 99 TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265382
+#EXTINF:-1,IT: RTTR
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/264575
+#EXTINF:-1,IT: RTV Sport
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/174221
+#EXTINF:-1,IT: San Marino RTV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/56783
+#EXTINF:-1,IT: Senato TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/55221
+#EXTINF:-1,IT: Sicilia TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299505
+#EXTINF:-1,IT: Sky Arte
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/290472
+#EXTINF:-1,IT: Sky Atlantic
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9507
+#EXTINF:-1,IT: Sky Cinema Action
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/913
+#EXTINF:-1,IT: Sky Cinema Collection
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9473
+#EXTINF:-1,IT: Sky Cinema Drama
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9490
+#EXTINF:-1,IT: Sky Cinema Due
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/998
+#EXTINF:-1,IT: Sky Cinema Family
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/916
+#EXTINF:-1,IT: Sky Cinema Romance
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/917
+#EXTINF:-1,IT: Sky Cinema Suspense
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9486
+#EXTINF:-1,IT: Sky Cinema Uno
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/282264
+#EXTINF:-1,IT: Sky Primafila 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/7895
+#EXTINF:-1,IT: Sky Primafila 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2017
+#EXTINF:-1,IT: Sky Primafila 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/83439
+#EXTINF:-1,IT: Sky Primafila 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/932
+#EXTINF:-1,IT: Sky Primafila 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/933
+#EXTINF:-1,IT: Sky Primafila 6
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2013
+#EXTINF:-1,IT: Sky Primafila 7
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/937
+#EXTINF:-1,IT: Sky Primafila 8
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/938
+#EXTINF:-1,IT: Sky Primafila 9
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2016
+#EXTINF:-1,IT: Sky Sport 24
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2535
+#EXTINF:-1,IT: Sky Sport Arena
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2541
+#EXTINF:-1,IT: Sky Sport Calcio
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/84505
+#EXTINF:-1,IT: Sky Sport F1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2542
+#EXTINF:-1,IT: Sky Sport Football
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2543
+#EXTINF:-1,IT: Sky Sport Moto GP
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9880
+#EXTINF:-1,IT: Sky Sport NBA
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1047
+#EXTINF:-1,IT: Sky Sport Uno
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/278706
+#EXTINF:-1,IT: Sky TG 24
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/283205
+#EXTINF:-1,IT: Sky Uno
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/91704
+#EXTINF:-1,IT: Sportitalia Plus
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1008
+#EXTINF:-1,IT: Stereo 5 TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/285548
+#EXTINF:-1,IT: Super J
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/285547
+#EXTINF:-1,IT: Super Tennis
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/285535
+#EXTINF:-1,IT: Super TV Aristanis
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/297041
+#EXTINF:-1,IT: Super TV Brescia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1012
+#EXTINF:-1,IT: Super!
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/297042
+#EXTINF:-1,IT: SuperSix Lombardia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287559
+#EXTINF:-1,IT: TCI
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158723
+#EXTINF:-1,IT: Tele Abruzzo
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299751
+#EXTINF:-1,IT: Tele Chiara
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1014
+#EXTINF:-1,IT: Tele Liguria Sud
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/151647
+#EXTINF:-1,IT: Tele Mia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/55227
+#EXTINF:-1,IT: Tele MonteNeve
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/90984
+#EXTINF:-1,IT: Tele Pavia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296594
+#EXTINF:-1,IT: Tele Pegaso Catania
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287571
+#EXTINF:-1,IT: Tele Radio Sciacca
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/59617
+#EXTINF:-1,IT: Tele TusciaSabina 2000
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265397
+#EXTINF:-1,IT: TeleA TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/267475
+#EXTINF:-1,IT: TeleArena
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18727
+#EXTINF:-1,IT: Telearte
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158685
+#EXTINF:-1,IT: Telebari
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74351
+#EXTINF:-1,IT: Telebelluno
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/285550
+#EXTINF:-1,IT: TeleBoario
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1013
+#EXTINF:-1,IT: Telecitta
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/260366
+#EXTINF:-1,IT: Telecolor
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158727
+#EXTINF:-1,IT: Telefoggia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74341
+#EXTINF:-1,IT: TeleMantova
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/55225
+#EXTINF:-1,IT: TeleMistretta
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299462
+#EXTINF:-1,IT: Telemolise
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287585
+#EXTINF:-1,IT: Telenord
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158728
+#EXTINF:-1,IT: Telenordest
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/201748
+#EXTINF:-1,IT: Telepace 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158687
+#EXTINF:-1,IT: Telepace 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158708
+#EXTINF:-1,IT: Telepace 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/158729
+#EXTINF:-1,IT: Telepace 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1022
+#EXTINF:-1,IT: Telepace Trento (History Lab)
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299246
+#EXTINF:-1,IT: TeleQuattro
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265394
+#EXTINF:-1,IT: Telerama
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265395
+#EXTINF:-1,IT: Teleromagna
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/59618
+#EXTINF:-1,IT: TeleSondrio News
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/169918
+#EXTINF:-1,IT: Teletricolore
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74343
+#EXTINF:-1,IT: Teletutto
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296590
+#EXTINF:-1,IT: TeleVenezia
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/59615
+#EXTINF:-1,IT: TeleVideo Agrigento
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18779
+#EXTINF:-1,IT: Tennis Channel
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1052
+#EXTINF:-1,IT: TG Norba 24
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1029
+#EXTINF:-1,IT: TGCom 24
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1007
+#EXTINF:-1,IT: Top Crime
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1997
+#EXTINF:-1,IT: Trentino TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/84734
+#EXTINF:-1,IT: TRG Media
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/276011
+#EXTINF:-1,IT: TV 8
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/50463
+#EXTINF:-1,IT: TV 2000
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1036
+#EXTINF:-1,IT: TV Qui
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/75584
+#EXTINF:-1,IT: TV Yes
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/276009
+#EXTINF:-1,IT: TV7 News
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265402
+#EXTINF:-1,IT: TV7 Triveneta
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/264577
+#EXTINF:-1,IT: TVA Vicenza
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1032
+#EXTINF:-1,IT: TVL
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287569
+#EXTINF:-1,IT: TVRS
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18759
+#EXTINF:-1,IT: Umbria TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/55229
+#EXTINF:-1,IT: Uninettuno University TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/904
+#EXTINF:-1,IT: VCO Azzurra TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/151652
+#EXTINF:-1,IT: Vera TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/74328
+#EXTINF:-1,IT: VH1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/8152
+#EXTINF:-1,IT: Video Novara
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296591
+#EXTINF:-1,IT: Videolina
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/260367
+#EXTINF:-1,IT: Videostar TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/18765
+#EXTINF:-1,IT: VideoTolentino
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/173567
+#EXTINF:-1,IT: Vuemme
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/287594
+#EXTINF:-1,IT: Zerouno TV Music
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/265410
+#EXTINF:-1,IT: Zerouno TV News
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299463
+
